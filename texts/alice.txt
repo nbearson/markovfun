@@ -186,7 +186,7 @@ Why, there's hardly enough of me left to make ONE respectable person!'
 
 Soon her eye fell on a little glass box that was lying under the table:
 she opened it, and found in it a very small cake, on which the words
-'EAT ME' were beautifully marked in currants. 'Well, I'll eat it,’ said
+'EAT ME' were beautifully marked in currants. 'Well, I'll eat it,' said
 Alice, 'and if it makes me grow larger, I can reach the key; and if it
 makes me grow smaller, I can creep under the door; so either way I'll
 get into the garden, and I don't care which happens!'
@@ -218,7 +218,7 @@ opening out like the largest telescope that ever was! Good-bye, feet!'
 (for when she looked down at her feet, they seemed to be almost out of
 sight, they were getting so far off). 'Oh, my poor little feet, I wonder
 who will put on your shoes and stockings for you now, dears? I'm sure
-_I_ shan't be able! I shall be a great deal too far off to trouble
+I shan't be able! I shall be a great deal too far off to trouble
 myself about you: you must manage the best way you can;--but I must be
 kind to them,' thought Alice, 'or perhaps they won't walk the way I want
 to go! Let me see: I'll give them a new pair of boots every Christmas.'
@@ -253,7 +253,7 @@ she hastily dried her eyes to see what was coming. It was the White
 Rabbit returning, splendidly dressed, with a pair of white kid gloves in
 one hand and a large fan in the other: he came trotting along in a great
 hurry, muttering to himself as he came, 'Oh! the Duchess, the Duchess!
-Oh! won't she be savage if I've kept her waiting!’ Alice felt so
+Oh! won't she be savage if I've kept her waiting!' Alice felt so
 desperate that she was ready to ask help of any one; so, when the Rabbit
 came near her, she began, in a low, timid voice, 'If you please, sir--'
 The Rabbit started violently, dropped the white kid gloves and the fan,
@@ -269,8 +269,8 @@ in the world am I? Ah, THAT'S the great puzzle!' And she began thinking
 over all the children she knew that were of the same age as herself, to
 see if she could have been changed for any of them.
 
-'I'm sure I'm not Ada,’ she said, 'for her hair goes in such long
-ringlets, and mine doesn't go in ringlets at all; and I'm sure I can’t
+'I'm sure I'm not Ada,' she said, 'for her hair goes in such long
+ringlets, and mine doesn't go in ringlets at all; and I'm sure I can't
 be Mabel, for I know all sorts of things, and she, oh! she knows such a
 very little! Besides, SHE'S she, and I'm I, and--oh dear, how puzzling
 it all is! I'll try if I know all the things I used to know. Let me
@@ -298,7 +298,7 @@ same as they used to do:--
 filled with tears again as she went on, 'I must be Mabel after all, and
 I shall have to go and live in that poky little house, and have next to
 no toys to play with, and oh! ever so many lessons to learn! No, I've
-made up my mind about it; if I'm Mabel, I'll stay down here! It’ll be no
+made up my mind about it; if I'm Mabel, I'll stay down here! It'll be no
 use their putting their heads down and saying “Come up again, dear!” I
 shall only look up and say “Who am I then? Tell me that first, and then,
 if I like being that person, I'll come up: if not, I'll stay down here
@@ -356,14 +356,14 @@ a mouse--to a mouse--a mouse--O mouse!') The Mouse looked at her rather
 inquisitively, and seemed to her to wink with one of its little eyes,
 but it said nothing.
 
-'Perhaps it doesn't understand English,' thought Alice; 'I daresay it’s
+'Perhaps it doesn't understand English,' thought Alice; 'I daresay it's
 a French mouse, come over with William the Conqueror.' (For, with all
 her knowledge of history, Alice had no very clear notion how long ago
 anything had happened.) So she began again: 'Ou est ma chatte?' which
 was the first sentence in her French lesson-book. The Mouse gave a
 sudden leap out of the water, and seemed to quiver all over with fright.
 'Oh, I beg your pardon!' cried Alice hastily, afraid that she had hurt
-the poor animal's feelings. 'I quite forgot you didn't like cats.’
+the poor animal's feelings. 'I quite forgot you didn't like cats.'
 
 'Not like cats!' cried the Mouse, in a shrill, passionate voice. 'Would
 YOU like cats if you were me?'
@@ -392,12 +392,12 @@ you throw them, and it'll sit up and beg for its dinner, and all sorts
 of things--I can't remember half of them--and it belongs to a farmer,
 you know, and he says it's so useful, it's worth a hundred pounds! He
 says it kills all the rats and--oh dear!' cried Alice in a sorrowful
-tone, 'I'm afraid I've offended it again!’ For the Mouse was swimming
+tone, 'I'm afraid I've offended it again!' For the Mouse was swimming
 away from her as hard as it could go, and making quite a commotion in
 the pool as it went.
 
 So she called softly after it, 'Mouse dear! Do come back again, and we
-won't talk about cats or dogs either, if you don't like them!’ When the
+won't talk about cats or dogs either, if you don't like them!' When the
 Mouse heard this, it turned round and swam slowly back to her: its
 face was quite pale (with passion, Alice thought), and it said in a low
 trembling voice, 'Let us get to the shore, and then I'll tell you my
@@ -473,7 +473,7 @@ that the meeting adjourn, for the immediate adoption of more energetic
 remedies--'
 
 'Speak English!' said the Eaglet. 'I don't know the meaning of half
-those long words, and, what's more, I don't believe you do either!’ And
+those long words, and, what's more, I don't believe you do either!' And
 the Eaglet bent down its head to hide a smile: some of the other birds
 tittered audibly.
 
@@ -610,7 +610,7 @@ anxiously about her. 'Oh, do let me help to undo it!'
 'I shall do nothing of the sort,' said the Mouse, getting up and walking
 away. 'You insult me by talking such nonsense!'
 
-'I didn't mean it!' pleaded poor Alice. 'But you’re so easily offended,
+'I didn't mean it!' pleaded poor Alice. 'But you're so easily offended,
 you know!'
 
 The Mouse only growled in reply.
@@ -688,7 +688,7 @@ fan and gloves.
 a rabbit! I suppose Dinah'll be sending me on messages next!' And she
 began fancying the sort of thing that would happen: '“Miss Alice! Come
 here directly, and get ready for your walk!” “Coming in a minute,
-nurse! But I've got to see that the mouse doesn't get out.” Only I don’t
+nurse! But I've got to see that the mouse doesn't get out.” Only I don't
 think,' Alice went on, 'that they'd let Dinah stop in the house if it
 began ordering people about like that!'
 
@@ -730,7 +730,7 @@ yet--it's rather curious, you know, this sort of life! I do wonder what
 CAN have happened to me! When I used to read fairy-tales, I fancied that
 kind of thing never happened, and now here I am in the middle of one!
 There ought to be a book written about me, that there ought! And when I
-grow up, I'll write one--but I'm grown up now,’ she added in a sorrowful
+grow up, I'll write one--but I'm grown up now,' she added in a sorrowful
 tone; 'at least there's no room to grow up any more HERE.'
 
 'But then,' thought Alice, 'shall I NEVER get any older than I am
@@ -772,7 +772,7 @@ help me out of THIS!' (Sounds of more broken glass.)
 
 'Now tell me, Pat, what's that in the window?'
 
-'Sure, it's an arm, yer honour!' (He pronounced it 'arrum.’)
+'Sure, it's an arm, yer honour!' (He pronounced it 'arrum.')
 
 'An arm, you goose! Who ever saw one that size? Why, it fills the whole
 window!'
@@ -800,7 +800,7 @@ do well enough; don't be particular--Here, Bill! catch hold of this
 rope--Will the roof bear?--Mind that loose slate--Oh, it's coming
 down! Heads below!' (a loud crash)--'Now, who did that?--It was Bill, I
 fancy--Who's to go down the chimney?--Nay, I shan't! YOU do it!--That I
-won't, then!--Bill's to go down--Here, Bill! the master says you’re to
+won't, then!--Bill's to go down--Here, Bill! the master says you're to
 go down the chimney!'
 
 'Oh! So Bill's got to come down the chimney, has he?' said Alice to
@@ -932,12 +932,12 @@ changed several times since then.'
 'What do you mean by that?' said the Caterpillar sternly. 'Explain
 yourself!'
 
-'I can't explain MYSELF, I'm afraid, sir’ said Alice, 'because I’m not
+'I can't explain MYSELF, I'm afraid, sir' said Alice, 'because I'm not
 myself, you see.'
 
 'I don't see,' said the Caterpillar.
 
-'I'm afraid I can't put it more clearly,’ Alice replied very politely,
+'I'm afraid I can't put it more clearly,' Alice replied very politely,
 'for I can't understand it myself to begin with; and being so many
 different sizes in a day is very confusing.'
 
@@ -984,7 +984,7 @@ minutes it puffed away without speaking, but at last it unfolded its
 arms, took the hookah out of its mouth again, and said, 'So you think
 you're changed, do you?'
 
-'I'm afraid I am, sir,' said Alice; 'I can’t remember things as I
+'I'm afraid I am, sir,' said Alice; 'I can't remember things as I
 used--and I don't keep the same size for ten minutes together!'
 
 'Can't remember WHAT things?' said the Caterpillar.
@@ -1130,15 +1130,15 @@ was beating her violently with its wings.
 
 'Serpent!' screamed the Pigeon.
 
-'I'm NOT a serpent!' said Alice indignantly. 'Let me alone!’
+'I'm NOT a serpent!' said Alice indignantly. 'Let me alone!'
 
 'Serpent, I say again!' repeated the Pigeon, but in a more subdued tone,
 and added with a kind of sob, 'I've tried every way, and nothing seems
 to suit them!'
 
-'I haven't the least idea what you're talking about,’ said Alice.
+'I haven't the least idea what you're talking about,' said Alice.
 
-'I've tried the roots of trees, and I've tried banks, and I’ve tried
+'I've tried the roots of trees, and I've tried banks, and I've tried
 hedges,' the Pigeon went on, without attending to her; 'but those
 serpents! There's no pleasing them!'
 
@@ -1149,7 +1149,7 @@ saying anything more till the Pigeon had finished.
 'but I must be on the look-out for serpents night and day! Why, I
 haven't had a wink of sleep these three weeks!'
 
-'I'm very sorry you've been annoyed,’ said Alice, who was beginning to
+'I'm very sorry you've been annoyed,' said Alice, who was beginning to
 see its meaning.
 
 'And just as I'd taken the highest tree in the wood,' continued the
@@ -1157,7 +1157,7 @@ Pigeon, raising its voice to a shriek, 'and just as I was thinking I
 should be free of them at last, they must needs come wriggling down from
 the sky! Ugh, Serpent!'
 
-'But I'm NOT a serpent, I tell you!' said Alice. 'I’m a--I’m a--’
+'But I'm NOT a serpent, I tell you!' said Alice. 'I'm a--I'm a--'
 
 'Well! WHAT are you?' said the Pigeon. 'I can see you're trying to
 invent something!'
@@ -1175,7 +1175,7 @@ egg!'
 child; 'but little girls eat eggs quite as much as serpents do, you
 know.'
 
-'I don't believe it,' said the Pigeon; 'but if they do, why then they’re
+'I don't believe it,' said the Pigeon; 'but if they do, why then they're
 a kind of serpent, that's all I can say.'
 
 This was such a new idea to Alice, that she was quite silent for a
@@ -1284,7 +1284,7 @@ days and days.'
 
 'Anything you like,' said the Footman, and began whistling.
 
-'Oh, there's no use in talking to him,' said Alice desperately: 'he’s
+'Oh, there's no use in talking to him,' said Alice desperately: 'he's
 perfectly idiotic!' And she opened the door and went in.
 
 The door led right into a large kitchen, which was full of smoke from
@@ -1305,7 +1305,7 @@ the hearth and grinning from ear to ear.
 not quite sure whether it was good manners for her to speak first, 'why
 your cat grins like that?'
 
-'It's a Cheshire cat,' said the Duchess, 'and that’s why. Pig!’
+'It's a Cheshire cat,' said the Duchess, 'and that's why. Pig!'
 
 She said the last word with such sudden violence that Alice quite
 jumped; but she saw in another moment that it was addressed to the baby,
@@ -1319,7 +1319,7 @@ that cats COULD grin.'
 'I don't know of any that do,' Alice said very politely, feeling quite
 pleased to have got into a conversation.
 
-'You don't know much,' said the Duchess; 'and that’s a fact.’
+'You don't know much,' said the Duchess; 'and that's a fact.'
 
 Alice did not at all like the tone of this remark, and thought it would
 be as well to introduce some other subject of conversation. While she
@@ -1349,7 +1349,7 @@ the hint; but the cook was busily stirring the soup, and seemed not to
 be listening, so she went on again: 'Twenty-four hours, I THINK; or is
 it twelve? I--'
 
-'Oh, don't bother ME,' said the Duchess; 'I never could abide figures!’
+'Oh, don't bother ME,' said the Duchess; 'I never could abide figures!'
 And with that she began nursing her child again, singing a sort of
 lullaby to it as she did so, and giving it a violent shake at the end of
 every line:
@@ -1397,7 +1397,7 @@ it out into the open air. 'IF I don't take this child away with me,'
 thought Alice, 'they're sure to kill it in a day or two: wouldn't it be
 murder to leave it behind?' She said the last words out loud, and the
 little thing grunted in reply (it had left off sneezing by this time).
-'Don't grunt,' said Alice; 'that’s not at all a proper way of expressing
+'Don't grunt,' said Alice; 'that's not at all a proper way of expressing
 yourself.'
 
 The baby grunted again, and Alice looked very anxiously into its face to
@@ -1457,23 +1457,23 @@ Hare. Visit either you like: they're both mad.'
 
 'But I don't want to go among mad people,' Alice remarked.
 
-'Oh, you can't help that,' said the Cat: 'we’re all mad here. I’m mad.
+'Oh, you can't help that,' said the Cat: 'we're all mad here. I'm mad.
 You're mad.'
 
 'How do you know I'm mad?' said Alice.
 
-'You must be,' said the Cat, 'or you wouldn't have come here.’
+'You must be,' said the Cat, 'or you wouldn't have come here.'
 
 Alice didn't think that proved it at all; however, she went on 'And how
 do you know that you're mad?'
 
-'To begin with,' said the Cat, 'a dog's not mad. You grant that?’
+'To begin with,' said the Cat, 'a dog's not mad. You grant that?'
 
 'I suppose so,' said Alice.
 
 'Well, then,' the Cat went on, 'you see, a dog growls when it's angry,
 and wags its tail when it's pleased. Now I growl when I'm pleased, and
-wag my tail when I'm angry. Therefore I'm mad.’
+wag my tail when I'm angry. Therefore I'm mad.'
 
 'I call it purring, not growling,' said Alice.
 
@@ -1555,7 +1555,7 @@ Alice looked all round the table, but there was nothing on it but tea.
 'It wasn't very civil of you to sit down without being invited,' said
 the March Hare.
 
-'I didn't know it was YOUR table,' said Alice; 'it’s laid for a great
+'I didn't know it was YOUR table,' said Alice; 'it's laid for a great
 many more than three.'
 
 'Your hair wants cutting,' said the Hatter. He had been looking at Alice
@@ -1567,7 +1567,7 @@ severity; 'it's very rude.'
 The Hatter opened his eyes very wide on hearing this; but all he SAID
 was, 'Why is a raven like a writing-desk?'
 
-'Come, we shall have some fun now!' thought Alice. 'I'm glad they’ve
+'Come, we shall have some fun now!' thought Alice. 'I'm glad they've
 begun asking riddles.--I believe I can guess that,' she added aloud.
 
 'Do you mean that you think you can find out the answer to it?' said the
@@ -1640,7 +1640,7 @@ eyes, 'Of course, of course; just what I was going to remark myself.'
 'Have you guessed the riddle yet?' the Hatter said, turning to Alice
 again.
 
-'No, I give it up,' Alice replied: 'what's the answer?’
+'No, I give it up,' Alice replied: 'what's the answer?'
 
 'I haven't the slightest idea,' said the Hatter.
 
@@ -1706,12 +1706,12 @@ head!”'
 'How dreadfully savage!' exclaimed Alice.
 
 'And ever since that,' the Hatter went on in a mournful tone, 'he won't
-do a thing I ask! It's always six o'clock now.’
+do a thing I ask! It's always six o'clock now.'
 
 A bright idea came into Alice's head. 'Is that the reason so many
 tea-things are put out here?' she asked.
 
-'Yes, that's it,' said the Hatter with a sigh: 'it’s always tea-time,
+'Yes, that's it,' said the Hatter with a sigh: 'it's always tea-time,
 and we've no time to wash the things between whiles.'
 
 'Then you keep moving round, I suppose?' said Alice.
@@ -1724,7 +1724,7 @@ to ask.
 'Suppose we change the subject,' the March Hare interrupted, yawning.
 'I'm getting tired of this. I vote the young lady tells us a story.'
 
-'I'm afraid I don't know one,’ said Alice, rather alarmed at the
+'I'm afraid I don't know one,' said Alice, rather alarmed at the
 proposal.
 
 'Then the Dormouse shall!' they both cried. 'Wake up, Dormouse!' And
@@ -1750,7 +1750,7 @@ questions of eating and drinking.
 'They lived on treacle,' said the Dormouse, after thinking a minute or
 two.
 
-'They couldn't have done that, you know,' Alice gently remarked; 'they’d
+'They couldn't have done that, you know,' Alice gently remarked; 'they'd
 have been ill.'
 
 'So they were,' said the Dormouse; 'VERY ill.'
@@ -1761,10 +1761,10 @@ why did they live at the bottom of a well?'
 
 'Take some more tea,' the March Hare said to Alice, very earnestly.
 
-'I've had nothing yet,' Alice replied in an offended tone, 'so I can’t
+'I've had nothing yet,' Alice replied in an offended tone, 'so I can't
 take more.'
 
-'You mean you can't take LESS,' said the Hatter: 'it’s very easy to take
+'You mean you can't take LESS,' said the Hatter: 'it's very easy to take
 MORE than nothing.'
 
 'Nobody asked YOUR opinion,' said Alice.
@@ -1990,7 +1990,7 @@ others.
 'Their heads are gone, if it please your Majesty!' the soldiers shouted
 in reply.
 
-'That's right!' shouted the Queen. 'Can you play croquet?’
+'That's right!' shouted the Queen. 'Can you play croquet?'
 
 The soldiers were silent, and looked at Alice, as the question was
 evidently meant for her.
@@ -2000,10 +2000,10 @@ evidently meant for her.
 'Come on, then!' roared the Queen, and Alice joined the procession,
 wondering very much what would happen next.
 
-'It's--it's a very fine day!’ said a timid voice at her side. She was
+'It's--it's a very fine day!' said a timid voice at her side. She was
 walking by the White Rabbit, who was peeping anxiously into her face.
 
-'Very,' said Alice: '--where's the Duchess?’
+'Very,' said Alice: '--where's the Duchess?'
 
 'Hush! Hush!' said the Rabbit in a low, hurried tone. He looked
 anxiously over his shoulder as he spoke, and then raised himself upon
@@ -2014,7 +2014,7 @@ sentence of execution.'
 
 'Did you say “What a pity!”?' the Rabbit asked.
 
-'No, I didn't,' said Alice: 'I don’t think it’s at all a pity. I said
+'No, I didn't,' said Alice: 'I don't think it's at all a pity. I said
 “What for?”'
 
 'She boxed the Queen's ears--' the Rabbit began. Alice gave a little
@@ -2083,7 +2083,7 @@ it ran away when it saw mine coming!'
 
 'How do you like the Queen?' said the Cat in a low voice.
 
-'Not at all,' said Alice: 'she's so extremely--’ Just then she noticed
+'Not at all,' said Alice: 'she's so extremely--' Just then she noticed
 that the Queen was close behind her, listening: so she went on,
 '--likely to win, that it's hardly worth while finishing the game.'
 
@@ -2100,7 +2100,7 @@ kiss my hand if it likes.'
 
 'I'd rather not,' the Cat remarked.
 
-'Don't be impertinent,' said the King, 'and don’t look at me like that!’
+'Don't be impertinent,' said the King, 'and don't look at me like that!'
 He got behind Alice as he spoke.
 
 'A cat may look at a king,' said Alice. 'I've read that in some book,
@@ -2160,7 +2160,7 @@ remark that had made the whole party look so grave and anxious.)
 Alice could think of nothing else to say but 'It belongs to the Duchess:
 you'd better ask HER about it.'
 
-'She's in prison,' the Queen said to the executioner: 'fetch her here.’
+'She's in prison,' the Queen said to the executioner: 'fetch her here.'
 And the executioner went off like an arrow.
 
  The Cat's head began fading away the moment he was gone, and,
@@ -2224,7 +2224,7 @@ themselves.”'
 
 'How fond she is of finding morals in things!' Alice thought to herself.
 
-'I dare say you're wondering why I don't put my arm round your waist,’
+'I dare say you're wondering why I don't put my arm round your waist,'
 the Duchess said after a pause: 'the reason is, that I'm doubtful about
 the temper of your flamingo. Shall I try the experiment?'
 
@@ -2247,7 +2247,7 @@ the moral of that is--“The more there is of mine, the less there is of
 yours.”'
 
 'Oh, I know!' exclaimed Alice, who had not attended to this last remark,
-'it's a vegetable. It doesn't look like one, but it is.’
+'it's a vegetable. It doesn't look like one, but it is.'
 
 'I quite agree with you,' said the Duchess; 'and the moral of that
 is--“Be what you would seem to be”--or if you'd like it put more
@@ -2267,7 +2267,7 @@ Alice.
 'Oh, don't talk about trouble!' said the Duchess. 'I make you a present
 of everything I've said as yet.'
 
-'A cheap sort of present!' thought Alice. 'I'm glad they don’t give
+'A cheap sort of present!' thought Alice. 'I'm glad they don't give
 birthday presents like that!' But she did not venture to say it out
 loud.
 
@@ -2313,7 +2313,7 @@ under sentence of execution.
 Then the Queen left off, quite out of breath, and said to Alice, 'Have
 you seen the Mock Turtle yet?'
 
-'No,' said Alice. 'I don't even know what a Mock Turtle is.’
+'No,' said Alice. 'I don't even know what a Mock Turtle is.'
 
 'It's the thing Mock Turtle Soup is made from,' said the Queen.
 
@@ -2361,10 +2361,10 @@ full of tears, but said nothing.
 history, she do.'
 
 'I'll tell it her,' said the Mock Turtle in a deep, hollow tone: 'sit
-down, both of you, and don't speak a word till I've finished.’
+down, both of you, and don't speak a word till I've finished.'
 
 So they sat down, and nobody spoke for some minutes. Alice thought to
-herself, 'I don't see how he can EVEN finish, if he doesn't begin.’ But
+herself, 'I don't see how he can EVEN finish, if he doesn't begin.' But
 she waited patiently.
 
 'Once,' said the Mock Turtle at last, with a deep sigh, 'I was a real
@@ -2403,7 +2403,7 @@ The Mock Turtle went on.
 
 'We had the best of educations--in fact, we went to school every day--'
 
-'I'VE been to a day-school, too,' said Alice; 'you needn’t be so proud
+'I'VE been to a day-school, too,' said Alice; 'you needn't be so proud
 as all that.'
 
 'With extras?' asked the Mock Turtle a little anxiously.
@@ -2451,7 +2451,7 @@ Fainting in Coils.'
 
 'What was THAT like?' said Alice.
 
-'Well, I can't show it you myself,' the Mock Turtle said: 'I’m too
+'Well, I can't show it you myself,' the Mock Turtle said: 'I'm too
 stiff. And the Gryphon never learnt it.'
 
 'Hadn't time,' said the Gryphon: 'I went to the Classics master, though.
@@ -2471,7 +2471,7 @@ on.'
 
 'What a curious plan!' exclaimed Alice.
 
-'That's the reason they're called lessons,’ the Gryphon remarked:
+'That's the reason they're called lessons,' the Gryphon remarked:
 'because they lessen from day to day.'
 
 This was quite a new idea to Alice, and she thought it over a little
@@ -2497,7 +2497,7 @@ said the Gryphon: and it set to work shaking him and punching him in
 the back. At last the Mock Turtle recovered his voice, and, with tears
 running down his cheeks, he went on again:--
 
-'You may not have lived much under the sea--' ['I haven't,’ said
+'You may not have lived much under the sea--' ['I haven't,' said
 Alice)--'and perhaps you were never even introduced to a lobster--'
 (Alice began to say 'I once tasted--' but checked herself hastily, and
 said 'No, never') '--so you can have no idea what a delightful thing a
@@ -2548,7 +2548,7 @@ and quietly, and looked at Alice.
 'Come, let's try the first figure!' said the Mock Turtle to the Gryphon.
 'We can do without lobsters, you know. Which shall sing?'
 
-'Oh, YOU sing,' said the Gryphon. 'I've forgotten the words.’
+'Oh, YOU sing,' said the Gryphon. 'I've forgotten the words.'
 
 So they began solemnly dancing round and round Alice, every now and
 then treading on her toes when they passed too close, and waving their
@@ -2562,7 +2562,7 @@ and sadly:--
  They are waiting on the shingle--will you come and join the dance?
 
  Will you, won't you, will you, won't you, will you join the dance?
- Will you, won't you, will you, won't you, won’t you join the dance?
+ Will you, won't you, will you, won't you, won't you join the dance?
 
  “You can really have no notion how delightful it will be
  When they take us up and throw us, with the lobsters, out to sea!”
@@ -2578,7 +2578,7 @@ and sadly:--
  Then turn not pale, beloved snail, but come and join the dance.
 
  Will you, won't you, will you, won't you, will you join the dance?
- Will you, won't you, will you, won't you, won’t you join the dance?”’
+ Will you, won't you, will you, won't you, won't you join the dance?”'
 
 'Thank you, it's a very interesting dance to watch,' said Alice, feeling
 very glad that it was over at last: 'and I do so like that curious song
@@ -2587,10 +2587,10 @@ about the whiting!'
 'Oh, as to the whiting,' said the Mock Turtle, 'they--you've seen them,
 of course?'
 
-'Yes,' said Alice, 'I've often seen them at dinn--’ she checked herself
+'Yes,' said Alice, 'I've often seen them at dinn--' she checked herself
 hastily.
 
-'I don't know where Dinn may be,' said the Mock Turtle, 'but if you’ve
+'I don't know where Dinn may be,' said the Mock Turtle, 'but if you've
 seen them so often, of course you know what they're like.'
 
 'I believe so,' Alice replied thoughtfully. 'They have their tails in
@@ -2810,7 +2810,7 @@ The judge, by the way, was the King; and as he wore his crown over the
 wig, (look at the frontispiece if you want to see how he did it,) he did
 not look at all comfortable, and it was certainly not becoming.
 
-'And that's the jury-box,' thought Alice, 'and those twelve creatures,’
+'And that's the jury-box,' thought Alice, 'and those twelve creatures,'
 (she was obliged to say 'creatures,' you see, because some of them were
 animals, and some were birds,) 'I suppose they are the jurors.' She said
 this last word two or three times over to herself, being rather proud of
@@ -2834,7 +2834,7 @@ Alice could see, as well as if she were looking over their shoulders,
 that all the jurors were writing down 'stupid things!' on their slates,
 and she could even make out that one of them didn't know how to spell
 'stupid,' and that he had to ask his neighbour to tell him. 'A nice
-muddle their slates'll be in before the trial's over!’ thought Alice.
+muddle their slates'll be in before the trial's over!' thought Alice.
 
 One of the jurors had a pencil that squeaked. This of course, Alice
 could not stand, and she went round the court and got behind him, and
@@ -2894,7 +2894,7 @@ my own. I'm a hatter.'
 Here the Queen put on her spectacles, and began staring at the Hatter,
 who turned pale and fidgeted.
 
-'Give your evidence,' said the King; 'and don't be nervous, or I’ll have
+'Give your evidence,' said the King; 'and don't be nervous, or I'll have
 you executed on the spot.'
 
 This did not seem to encourage the witness at all: he kept shifting
@@ -2911,11 +2911,11 @@ long as there was room for her.
 'I wish you wouldn't squeeze so.' said the Dormouse, who was sitting
 next to her. 'I can hardly breathe.'
 
-'I can't help it,' said Alice very meekly: 'I’m growing.’
+'I can't help it,' said Alice very meekly: 'I'm growing.'
 
 'You've no right to grow here,' said the Dormouse.
 
-'Don't talk nonsense,' said Alice more boldly: 'you know you’re growing
+'Don't talk nonsense,' said Alice more boldly: 'you know you're growing
 too.'
 
 'Yes, but I grow at a reasonable pace,' said the Dormouse: 'not in that
@@ -2962,7 +2962,7 @@ nothing, being fast asleep.
 
 'That I can't remember,' said the Hatter.
 
-'You MUST remember,' remarked the King, 'or I'll have you executed.’
+'You MUST remember,' remarked the King, 'or I'll have you executed.'
 
 The miserable Hatter dropped his teacup and bread-and-butter, and went
 down on one knee. 'I'm a poor man, your Majesty,' he began.
@@ -2975,7 +2975,7 @@ explain to you how it was done. They had a large canvas bag, which tied
 up at the mouth with strings: into this they slipped the guinea-pig,
 head first, and then sat upon it.)
 
-'I'm glad I've seen that done,’ thought Alice. 'I’ve so often read
+'I'm glad I've seen that done,' thought Alice. 'I've so often read
 in the newspapers, at the end of trials, “There was some attempts
 at applause, which was immediately suppressed by the officers of the
 court,” and I never understood what it meant till now.'
@@ -2983,7 +2983,7 @@ court,” and I never understood what it meant till now.'
 'If that's all you know about it, you may stand down,' continued the
 King.
 
-'I can't go no lower,' said the Hatter: 'I’m on the floor, as it is.’
+'I can't go no lower,' said the Hatter: 'I'm on the floor, as it is.'
 
 'Then you may SIT down,' the King replied.
 
@@ -3114,7 +3114,7 @@ Everybody looked at Alice.
 
 'Nearly two miles high,' added the Queen.
 
-'Well, I shan't go, at any rate,' said Alice: 'besides, that’s not a
+'Well, I shan't go, at any rate,' said Alice: 'besides, that's not a
 regular rule: you invented it just now.'
 
 'It's the oldest rule in the book,' said the King.
@@ -3138,20 +3138,20 @@ nobody, which isn't usual, you know.'
 
 'Who is it directed to?' said one of the jurymen.
 
-'It isn't directed at all,' said the White Rabbit; 'in fact, there’s
+'It isn't directed at all,' said the White Rabbit; 'in fact, there's
 nothing written on the OUTSIDE.' He unfolded the paper as he spoke, and
-added 'It isn't a letter, after all: it's a set of verses.’
+added 'It isn't a letter, after all: it's a set of verses.'
 
 'Are they in the prisoner's handwriting?' asked another of the jurymen.
 
-'No, they're not,' said the White Rabbit, 'and that’s the queerest thing
+'No, they're not,' said the White Rabbit, 'and that's the queerest thing
 about it.' (The jury all looked puzzled.)
 
 'He must have imitated somebody else's hand,' said the King. (The jury
 all brightened up again.)
 
 'Please your Majesty,' said the Knave, 'I didn't write it, and they
-can't prove I did: there's no name signed at the end.’
+can't prove I did: there's no name signed at the end.'
 
 'If you didn't sign it,' said the King, 'that only makes the matter
 worse. You MUST have meant some mischief, or else you'd have signed your
@@ -3205,19 +3205,19 @@ These were the verses the White Rabbit read:--
    A secret, kept from all the rest,
     Between yourself and me.'
 
-'That's the most important piece of evidence we've heard yet,’ said the
+'That's the most important piece of evidence we've heard yet,' said the
 King, rubbing his hands; 'so now let the jury--'
 
 'If any one of them can explain it,' said Alice, (she had grown so large
 in the last few minutes that she wasn't a bit afraid of interrupting
-him,) 'I'll give him sixpence. _I_ don't believe there’s an atom of
+him,) 'I'll give him sixpence. I don't believe there's an atom of
 meaning in it.'
 
 The jury all wrote down on their slates, 'SHE doesn't believe there's an
 atom of meaning in it,' but none of them attempted to explain the paper.
 
 'If there's no meaning in it,' said the King, 'that saves a world of
-trouble, you know, as we needn't try to find any. And yet I don't know,’
+trouble, you know, as we needn't try to find any. And yet I don't know,'
 he went on, spreading out the verses on his knee, and looking at them
 with one eye; 'I seem to see some meaning in them, after all. “--SAID
 I COULD NOT SWIM--” you can't swim, can you?' he added, turning to the
